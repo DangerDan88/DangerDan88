@@ -1,5 +1,5 @@
-# 👋 Welcome to my Github
-Here is what I'm up to:<br />
+# 👋 Hello check out my Github below
+Here is what I'm trying to work on:<br />
 Coding in **[React](https://reactjs.org/)**, and the MERN stack.<br />
 Learning **[Tailwind CSS](https://tailwindcss.com/)**, **[Next.js](https://nextjs.org/)** and **[styled components](https://styled-components.com/)**. <br />
 📫 How to reach me: dangerdan808@gmail.com <br />
