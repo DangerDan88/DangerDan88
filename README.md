@@ -1,5 +1,6 @@
-# 👋 Hello check out my Github below
-Here is what I'm trying to work on:<br />
+# 👋 Here is what I'm trying to work on:<br />
+br />
+Always Looking to Improve.
 Coding in **[React](https://reactjs.org/)**, and the MERN stack.<br />
 Learning **[Tailwind CSS](https://tailwindcss.com/)**, **[Next.js](https://nextjs.org/)**, **[Gatbsy.js](https://www.gatsbyjs.com/)** and **[styled components](https://styled-components.com/)**. <br />
 📫 How to reach me: dangerdan808@gmail.com <br />
