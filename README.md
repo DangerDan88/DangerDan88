@@ -8,6 +8,6 @@ Learning **[Tailwind CSS](https://tailwindcss.com/)**, **[Next.js](https://nextj
 👔 **[LinkedIn](https://www.linkedin.com/in/daniel-osornio-837547188/)**
 <br />
 <br />
-🏡 **[Website](https://infallible-franklin-71e6b4.netlify.app/)**
+🏡 **[Website](https://danger-portfolio-n15992zru.vercel.app/)**
 <br />
 ![My github stats](https://github-readme-stats.vercel.app/api?username=DangerDan88&show_icons=true&theme=solarized-dark)
