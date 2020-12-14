@@ -1,4 +1,4 @@
-# 👋 Welcome
+# 👋 Welcome open to work
 Always wanting to improve and learn more.<br />
 Coding in **[React](https://reactjs.org/)**, and the MERN stack. <br />
 Learning **[Tailwind CSS](https://tailwindcss.com/)**, **[Next.js](https://nextjs.org/)**, **[Gatbsy.js](https://www.gatsbyjs.com/)** and **[styled components](https://styled-components.com/)**. <br />
